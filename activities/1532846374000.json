@@ -1,0 +1,411 @@
+{
+    "id": "2d9d47e39ffcda1eb8a5087b1546df182617e554f87c87b198a86f2ffa4f0762",
+    "type": "swimming",
+    "app_id": "com.garmin.garmin",
+    "start_epoch_ms": 1532844076000,
+    "end_epoch_ms": 1532846374000,
+    "last_modified": 1534144716447,
+    "active_duration_ms": 857000,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [
+        {
+            "metric": "speed",
+            "summary": "mean",
+            "source": "com.garmin.garmin.1967",
+            "app_id": "com.garmin.garmin",
+            "value": 0
+        },
+        {
+            "metric": "grade",
+            "summary": "mean",
+            "source": "com.garmin.garmin.1967",
+            "app_id": "com.garmin.garmin",
+            "value": 0
+        },
+        {
+            "metric": "distance",
+            "summary": "total",
+            "source": "com.garmin.garmin.1967",
+            "app_id": "com.garmin.garmin",
+            "value": 0
+        }
+    ],
+    "sources": [
+        "com.garmin.garmin.1967"
+    ],
+    "tags": {},
+    "change_tokens": [
+        "370f425707ca0d8332bbbb0c2def82259c0195021b85bc88a93f1ef916b0dac1:1534144716447"
+    ],
+    "metric_types": [
+        "distance",
+        "grade",
+        "speed"
+    ],
+    "metrics": [
+        {
+            "type": "distance",
+            "unit": "KM",
+            "source": "com.garmin.garmin.1967",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1532844076000,
+                    "end_epoch_ms": 1532844201000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844201000,
+                    "end_epoch_ms": 1532844299000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844299000,
+                    "end_epoch_ms": 1532844409000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844409000,
+                    "end_epoch_ms": 1532844656000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844656000,
+                    "end_epoch_ms": 1532844657000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844657000,
+                    "end_epoch_ms": 1532844844000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844844000,
+                    "end_epoch_ms": 1532844946000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844946000,
+                    "end_epoch_ms": 1532845160000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845160000,
+                    "end_epoch_ms": 1532845273000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845273000,
+                    "end_epoch_ms": 1532845565000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845565000,
+                    "end_epoch_ms": 1532845672000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845672000,
+                    "end_epoch_ms": 1532845856000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845856000,
+                    "end_epoch_ms": 1532846046000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846046000,
+                    "end_epoch_ms": 1532846143000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846143000,
+                    "end_epoch_ms": 1532846253000,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "speed",
+            "unit": "KMH",
+            "source": "com.garmin.garmin.1967",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1532844076000,
+                    "end_epoch_ms": 1532844201000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844201000,
+                    "end_epoch_ms": 1532844299000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844299000,
+                    "end_epoch_ms": 1532844409000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844409000,
+                    "end_epoch_ms": 1532844656000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844656000,
+                    "end_epoch_ms": 1532844657000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844657000,
+                    "end_epoch_ms": 1532844844000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844844000,
+                    "end_epoch_ms": 1532844946000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844946000,
+                    "end_epoch_ms": 1532845160000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845160000,
+                    "end_epoch_ms": 1532845273000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845273000,
+                    "end_epoch_ms": 1532845565000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845565000,
+                    "end_epoch_ms": 1532845672000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845672000,
+                    "end_epoch_ms": 1532845856000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845856000,
+                    "end_epoch_ms": 1532846046000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846046000,
+                    "end_epoch_ms": 1532846143000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846143000,
+                    "end_epoch_ms": 1532846253000,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "grade",
+            "unit": "RATIO",
+            "source": "com.garmin.garmin.1967",
+            "appId": "com.garmin.garmin",
+            "values": [
+                {
+                    "start_epoch_ms": 1532844076000,
+                    "end_epoch_ms": 1532844201000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844201000,
+                    "end_epoch_ms": 1532844299000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844299000,
+                    "end_epoch_ms": 1532844409000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844409000,
+                    "end_epoch_ms": 1532844656000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844656000,
+                    "end_epoch_ms": 1532844657000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844657000,
+                    "end_epoch_ms": 1532844844000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844844000,
+                    "end_epoch_ms": 1532844946000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532844946000,
+                    "end_epoch_ms": 1532845160000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845160000,
+                    "end_epoch_ms": 1532845273000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845273000,
+                    "end_epoch_ms": 1532845565000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845565000,
+                    "end_epoch_ms": 1532845672000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845672000,
+                    "end_epoch_ms": 1532845856000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532845856000,
+                    "end_epoch_ms": 1532846046000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846046000,
+                    "end_epoch_ms": 1532846143000,
+                    "value": 0
+                },
+                {
+                    "start_epoch_ms": 1532846143000,
+                    "end_epoch_ms": 1532846253000,
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "moments": [
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532844201000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532844299000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532844409000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532844656000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532844657000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532844844000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532844946000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532845160000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532845273000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532845565000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532845672000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532845856000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532846046000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1532846143000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1532846253000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        },
+        {
+            "key": "lap",
+            "value": "1",
+            "timestamp": 1532846253000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.1967"
+        }
+    ]
+}
